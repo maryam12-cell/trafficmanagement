@@ -1,0 +1,12 @@
+.bgcolor{
+    background-color: #1ECBE1;
+}
+.class1{
+    background-color: #D32CCA;
+    display: flex;
+    align-items:center ;
+    justify-content:space-around;
+}
+.navpadding{
+    padding: 200px 40px 20px 100px
+}
